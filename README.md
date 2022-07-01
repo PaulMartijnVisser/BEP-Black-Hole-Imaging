@@ -4,8 +4,14 @@
 ## Header 2
 ### Header 3
 
-_Underscore_
+_italics_
+
+*bold*
 
 ```bash
 whoami -flag
-'''
+```
+
+- 1
+- 2
+- 3
