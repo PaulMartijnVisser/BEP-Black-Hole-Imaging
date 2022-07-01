@@ -6,7 +6,7 @@
 
 _italics_
 
-*bold*
+**bold**
 
 ```bash
 whoami -flag
@@ -15,3 +15,6 @@ whoami -flag
 - 1
 - 2
 - 3
+
+Heading
+=======
